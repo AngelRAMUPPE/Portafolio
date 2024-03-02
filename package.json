@@ -2,7 +2,7 @@
   "homepage": "https://github.com/AngelRAMUPPE/portafolio",
   "name": "portafolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
     "@emotion/styled": "^11.11.0",
