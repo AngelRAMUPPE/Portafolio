@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AngelRAMUPPE/portafolio/static/css/main.3afcd40d.css",
-    "main.js": "/AngelRAMUPPE/portafolio/static/js/main.abae5216.js",
-    "static/media/Foto.jpeg": "/AngelRAMUPPE/portafolio/static/media/Foto.c6f056777c4527ef1c9c.jpeg",
-    "index.html": "/AngelRAMUPPE/portafolio/index.html",
-    "main.3afcd40d.css.map": "/AngelRAMUPPE/portafolio/static/css/main.3afcd40d.css.map",
-    "main.abae5216.js.map": "/AngelRAMUPPE/portafolio/static/js/main.abae5216.js.map"
+    "main.css": "/portafolio/static/css/main.3afcd40d.css",
+    "main.js": "/portafolio/static/js/main.ee9da6c0.js",
+    "static/media/Foto.jpeg": "/portafolio/static/media/Foto.c6f056777c4527ef1c9c.jpeg",
+    "index.html": "/portafolio/index.html",
+    "main.3afcd40d.css.map": "/portafolio/static/css/main.3afcd40d.css.map",
+    "main.ee9da6c0.js.map": "/portafolio/static/js/main.ee9da6c0.js.map"
   },
   "entrypoints": [
     "static/css/main.3afcd40d.css",
-    "static/js/main.abae5216.js"
+    "static/js/main.ee9da6c0.js"
   ]
 }
