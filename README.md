@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+<h1>Angel Ruben Acosta Merino <br> Front-end Dev. 🚀 </h1>
+<p style="font-size: 24px;">About Me</p>
+I'm a passionate Front-end web developer with a strong foundation in JavaScript, React, and Node.js. I'm always eager to learn new technologies and build innovative web applications.
+<h1>Projects</h1>
+<ul>
+<li><a href="https://tectrac-factory.onrender.com/">Tectrac-Factory</a></li>
+    <ld>Tectrac-Factory is a comprehensive web-based platform that optimizes industrial processes through the use of IoT technologies. The platform will be designed to provide factories with advanced real-time monitoring and analysis capabilities, allowing them to identify inefficiencies and predict equipment failures.<ld>
+    <li><a href="https://angelramuppe.github.io/FinalProject_WebProgramming/">AppGrow</a></li>
+    <ld>A Project that involves aspects of Hardware and software, the capacity of our meter offers precise measurements which is crucial to guarantee the quality of our plants and to maintain optimal environments.<ld>
+    <li><a href="https://linelife2.onrender.com/">LineLife</a></li>
+    <ld>An invaluable bracelet that can save lives in emergency situations. By providing instant access to critical medical information, the bracelet enables paramedics to make informed decisions and deliver faster and more effective care. In addition, the bracelet also contributes to improving public safety by analyzing accident data and identifying problem areas using Artificial Intelligence.<ld>
+</ul>
+<h1>Skills</h1>
+<ul>
+    <li>Programming Languages: HTML, CSS, JS, Python, C#, PHP </li>
+    <li>Frameworks and Libraries: React, Node.js, Express, MongoDB, FireBase, MySQL, Bootstrap</li>
+    <li>Tools: Git, VSCode, npm, Figma</li>
+</ul>
+<h1>Contact</h1>
+<li>Email: angelram1@outlook.com</li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/angelrubenacostamerino/">Angel Ruben</a></li>
+<li>Website: <a href="https://angelramuppe.github.io/portafolio/">Web Portafolio</a></li>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -145,8 +145,8 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/portafolio-19d21.appspot.com/o/UPPE.jpeg?alt=media&token=95bed092-d361-4b6c-a416-b0aefe365b89",
     school: "Universidad Politecnica de Penjamo",
     date: "Sep 2022 - Now",
-    grade: " 9.3 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Software Engineering at Universidad Politecnica de Penjamo. I have completed 5 semesters and have a CGPA of 9.3. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "3.8 GPA",
+    desc: "I am currently pursuing a Bachelor's degree in Software Engineering at Universidad Politecnica de Penjamo. I have completed 6 semesters and have a GPA of 3.8. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor in Software Engineering",
   },
   {
@@ -179,6 +179,24 @@ export const projects = [
     category: "web app",
     github: "https://github.com/AngelRAMUPPE/FinalProject_WebProgramming",
     webapp: "https://angelramuppe.github.io/FinalProject_WebProgramming/",
+  },
+  {
+    id: 1,
+    title: "LineLife",
+    date: "April 2024",
+    description:
+      "An invaluable bracelet that can save lives in emergency situations. By providing instant access to critical medical information, the bracelet enables paramedics to make informed decisions and deliver faster and more effective care. In addition, the bracelet also contributes to improving public safety by analyzing accident data and identifying problem areas using Artificial Intelligence.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portafolio-19d21.appspot.com/o/Linelife2.png?alt=media&token=65945ecc-47ae-4c60-8521-fa9d35b6d777",
+    tags: [
+      "ExpressJS",
+      "NodeJs",
+      "MongoDB",
+      "JS",
+    ],
+    category: "web app",
+    github: "https://github.com/AngelRAMUPPE/LineLife2",
+    webapp: "https://linelife2.onrender.com/",
   },
 ];
 
